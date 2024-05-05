@@ -2,9 +2,13 @@
 
 # Robię strony www, bo lubię :)
 
+<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="200" />
 
-<!--
+
+
+
+
 **misiektedi/misiektedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
