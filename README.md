@@ -1,6 +1,6 @@
 ### @misiektedi 💻
 
-# Robię strony www, bo lubię :)
+# Robię strony www i jakieś dziwne aplikacje w Swift
 
 <!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="200" />
