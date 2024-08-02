@@ -1,9 +1,8 @@
 ### @misiektedi 💻
 
-# Robię strony www i jakieś dziwne aplikacje w Swift
+# Robię strony www, cos tam w php i mysql, cos tam w react lub vue, postgresql i dockera postawilem ale jeszcze nie wiem jak działają :)
 
 <!--
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="200" />
 
 
 
