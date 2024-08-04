@@ -1,5 +1,6 @@
 ### @misiektedi 💻
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
 
 # Robię strony www, cos tam w php i mysql
