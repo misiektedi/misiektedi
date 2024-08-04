@@ -1,6 +1,8 @@
 ### @misiektedi 💻
 
-# Robię strony www, cos tam w php i mysql, cos tam w react lub vue, postgresql i dockera postawilem ale jeszcze nie wiem jak działają :)
+# Robię strony www, cos tam w php (z frameworkami) i mysql
+# cos tam w react lub svelte (i express)
+# postgresql i dockera postawilem ale jeszcze nie wiem jak działają :)
 
 <!--
 
