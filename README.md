@@ -1,4 +1,4 @@
-# ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true)
+<!-- # ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true) -->
 
 ### ![](https://media.tenor.com/ko4tpRh2FTcAAAAi/mr-free-super-tux.gif)
 
