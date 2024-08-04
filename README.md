@@ -2,7 +2,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=misiektedi)](https://github.com/misiektedi)
 
 # Robię strony www, cos tam w php i mysql
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
