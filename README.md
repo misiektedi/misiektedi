@@ -1,6 +1,6 @@
 ### @misiektedi 💻
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
 
 # Robię strony www, cos tam w php i mysql
@@ -16,19 +16,19 @@
 # czasem typescript (bo tak bo lubie)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-# lubie pythona bo fajne rzeczy mozna w nim robic
+# lubie pythona, bo fajne rzeczy mozna w nim robic
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# postgresql i dockera postawilem ale jeszcze nie wiem jak działają :)
+# postgresql i dockera postawilem, ale jeszcze nie wiem jak działają :)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # apache jest super
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-# jest git (nie jest bo zapominam go uzywac)
+# jest git (nie jest, bo zapominam go używać)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-# ovh zyciem przynajmniej serwery im sie nie pala
+# ovh zyciem - przynajmniej serwery im sie nie palą
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
 <!--
