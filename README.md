@@ -1,7 +1,8 @@
 ### @misiektedi 💻
 
 # Robię strony www, cos tam w php (z frameworkami) i mysql
-# cos tam w react lub svelte (i express)
+# cos tam tez w react lub svelte (i express)
+# lubie pythona bo fajne rzeczy mozna w nim robic
 # postgresql i dockera postawilem ale jeszcze nie wiem jak działają :)
 
 <!--
