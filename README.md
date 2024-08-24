@@ -22,9 +22,7 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
-<!--
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
 
 
 
