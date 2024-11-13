@@ -1,6 +1,14 @@
+# misiektedi 💻
+
+## My stack
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwind,postgresql,mysql,python,vscode,svelte,git,github,linux,ubuntu,debian,bash,docker,redis,nodejs,npm,javascript,html,css,htmx,apple)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
+
+
 <!-- # ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true) -->
 
-# @misiektedi 💻
+<!-- # @misiektedi 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -21,8 +29,6 @@
 ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
 
 
 
