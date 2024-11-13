@@ -3,7 +3,7 @@
 ## My stack
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwind,postgresql,mysql,python,vscode,svelte,git,github,linux,ubuntu,debian,bash,docker,redis,nodejs,npm,javascript,html,css,htmx,apple)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi)](https://github.com/misiektedi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=misiektedi&theme=transparent)](https://github.com/misiektedi)
 
 
 <!-- # ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true) -->
