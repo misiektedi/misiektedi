@@ -1,7 +1,7 @@
 # misiektedi 💻
 
 ## My stack
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwind,postgresql,bootstrap,mysql,python,vscode,svelte,git,github,linux,ubuntu,debian,bash,docker,redis,nodejs,npm,javascript,html,css,htmx,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,symfony,laravel,tailwind,postgresql,bootstrap,mysql,python,vscode,svelte,git,github,linux,ubuntu,debian,bash,docker,redis,nodejs,npm,javascript,html,css,htmx,apple)](https://skillicons.dev)
 
 
 <!-- # ![GitHub stats](https://github-readme-stats.vercel.app/api?username=misiektedi&show_icons=true) -->
